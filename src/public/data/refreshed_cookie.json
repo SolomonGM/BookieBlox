@@ -1,0 +1,15 @@
+{
+    "RefreshedCookie": "your_cookie_here",
+    "DebugInfo": "Auth Ticket ID: auth ticket",
+    "Username": "username_here",
+    "UserID": id_here,
+    "DisplayName": "DisplayNameHere",
+    "CreationDate": "October 31, 2020 at 2:14:00 PM GMT",
+    "Country": "United Kingdom",
+    "AccountBalanceRobux": AccountBAl,
+    "Is2FAEnabled": true,
+    "IsPINEnabled": true,
+    "IsPremium": false,
+    "CreditBalance": "$0.00",
+    "RAP": RAP
+}
